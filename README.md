@@ -17,4 +17,4 @@ Tech Stack
 How to run
 Just open `index.html` in browser.
 
-![App Screenshot](images/To-do_op.png)
+![App Screenshot](To-do_op.png)
